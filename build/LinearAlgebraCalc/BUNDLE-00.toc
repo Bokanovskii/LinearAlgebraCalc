@@ -1,0 +1,3 @@
+([('LinearAlgebraCalc',
+   '/Users/charlie/MatrixAppSourceCode/MatrixApp/dist/LinearAlgebraCalc',
+   'EXECUTABLE')],)
